@@ -14,7 +14,7 @@ pipeline {
         DEV_PROJECT = "torppe-books-dev"
         STAGE_PROJECT = "torppe-books-stage"
         APP_GIT_URL = "https://github.com/Torppe/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nexttcle.com/repository/nodejs"
+        NEXUS_SERVER = "nexus-common.apps.eu45.prod.nexttcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
